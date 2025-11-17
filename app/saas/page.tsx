@@ -99,27 +99,27 @@ export default function SaaSPage() {
             {cloudPositions.map((yPos, i) => (
               <motion.div
                 key={i}
-                className={`absolute text-4xl ${darkMode ? "opacity-20" : "opacity-30"}`}
-                initial={{ 
+                className={`absolute text-4xl ${darkMode ? 'opacity-20' : 'opacity-30'}`}
+                initial={{
                   x: -100,
                   y: yPos,
-                opacity: 0
-              }}
-              animate={{ 
-                x: typeof window !== "undefined" ? window.innerWidth + 100 : 1200,
-                opacity: [0, 0.3, 0.3, 0]
-              }}
-              transition={{
-                duration: 20 + i * 2,
-                repeat: Infinity,
-                delay: i * 2,
-                ease: "linear"
-              }}
-            >
-              ☁️
-            </motion.div>
-
+                  opacity: 0
+                }}
+                animate={{
+                  x: typeof window !== 'undefined' ? window.innerWidth + 100 : 1200,
+                  opacity: [0, 0.3, 0.3, 0]
+                }}
+                transition={{
+                  duration: 20 + i * 2,
+                  repeat: Infinity,
+                  delay: i * 2,
+                  ease: "linear"
+                }}
+              >
+                ☁️
+              </motion.div>
             ))}
+
 
             <motion.div
               animate={{ 
