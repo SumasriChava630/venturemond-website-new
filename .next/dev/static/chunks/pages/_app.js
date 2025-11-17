@@ -1,0 +1,15 @@
+__turbopack_load_page_chunks__("/_app", [
+  "static/chunks/daca8_next_dist_compiled_9b653336._.js",
+  "static/chunks/daca8_next_dist_shared_lib_dcf98a8a._.js",
+  "static/chunks/daca8_next_dist_client_cefe4072._.js",
+  "static/chunks/daca8_next_dist_9920f2d5._.js",
+  "static/chunks/daca8_next_app_8b80bb5c.js",
+  "static/chunks/[next]_entry_page-loader_ts_ace0cda1._.js",
+  "static/chunks/daca8_react_f46b9962._.js",
+  "static/chunks/daca8_react-dom_cjs_react-dom_development_205e6688.js",
+  "static/chunks/daca8_react-dom_ba410ac2._.js",
+  "static/chunks/daca8_679d4fbe._.js",
+  "static/chunks/[root-of-the-server]__9c8c8513._.js",
+  "static/chunks/Music_venturemond-website_pages__app_2da965e7._.js",
+  "static/chunks/turbopack-Music_venturemond-website_pages__app_2b6e024f._.js"
+])

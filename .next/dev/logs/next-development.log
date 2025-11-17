@@ -1,0 +1,15 @@
+[00:00:23.695] Server  LOG      ✓ Ready in 17.1s
+[00:00:27.236] Server  LOG      ○ Compiling / ...
+[00:02:00.900] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:08.957] Browser WARN    Image with src "/images/project/gamma.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:02:08.958] Browser WARN    Image with src "/images/project/alpha.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:02:08.958] Browser WARN    Image with src "/images/project/beta.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:02:09.518] Browser WARN    Image with src "/images/about/about1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:02:45.904] Server  LOG      ○ Compiling /api/contact ...
+[00:02:56.665] Server  ERROR   Error sending email: Error: self-signed certificate in certificate chain
+[00:11:13.934] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:20.367] Browser WARN    Image with src "/images/about/about1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:57.229] Server  LOG      ○ Compiling /api/waitlist ...
+[00:15:43.196] Server  ERROR   Error sending email: Error: self-signed certificate in certificate chain
+[00:19:22.367] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:32.278] Browser WARN    Image with src "/images/about/about1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
